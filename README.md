@@ -8,6 +8,7 @@ The repository contains two files:
   * Was done based on a computer simulation.
   * Completed March 25, 2020
   * Done as a group project, all authors credited in paper.
+  
 *Final Project
   * Describes the workings of an electric motor
   * Experiments with the relationship between back emf and rpm of the motor.
